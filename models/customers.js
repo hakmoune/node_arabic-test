@@ -1,3 +1,7 @@
+/**
+ * Creation de notre Collection
+ * La validation de nos donées coté base de donnée et coté app
+ */
 const moongose = require("mongoose");
 const joi = require("joi");
 
